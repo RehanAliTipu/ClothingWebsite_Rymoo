@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RYMO: Where you meet quality</title>
+
+    <link rel="shortcut icon" href="img/favi.png" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!--* NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top">
+      <div class="container">
+        <img src="img/logo1.png" alt="" />
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span><i id="bar" class="fas fa-bars"></i></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="shop.html">Shop</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="blog.html">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item">
+              <i class="fal fa-search"></i>
+              <i class="fal fa-shopping-bag active"></i>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--* Top -->
+    <section id="Top" class="mt-5 pt-5 container">
+      <h2 class="font-weight-bold pt-5">Shopping Cart</h2>
+      <hr />
+    </section>
+    <!--* Table-Cart  -->
+    <section id="cart-container" class="container my-5">
+      <table width="100%">
+        <thead>
+          <tr>
+            <td>Remove</td>
+            <td>Images</td>
+            <td>Products</td>
+            <td>Price</td>
+            <td>Quantity</td>
+            <td>Total</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <a href="#"><i class="fas fa-trash-alt"></i></a>
+            </td>
+            <td><img src="img/shoes/1.jpg" alt="" /></td>
+            <td>
+              <h5>Hush Puppy</h5>
+            </td>
+            <td>
+              <h5>$90</h5>
+            </td>
+            <td>
+              <input type="number" class="w-25 pl-1" value="1" />
+            </td>
+            <td><h5>$90.00</h5></td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#"><i class="fas fa-trash-alt"></i></a>
+            </td>
+            <td><img src="img/shoes/2.jpg" alt="" /></td>
+            <td>
+              <h5>Nike</h5>
+            </td>
+            <td>
+              <h5>$100</h5>
+            </td>
+            <td>
+              <input type="number" class="w-25 pl-1" value="1" />
+            </td>
+            <td><h5>$100.00</h5></td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#"><i class="fas fa-trash-alt"></i></a>
+            </td>
+            <td><img src="img/shoes/3.jpg" alt="" /></td>
+            <td>
+              <h5>Addidas</h5>
+            </td>
+            <td>
+              <h5>$110</h5>
+            </td>
+            <td>
+              <input type="number" class="w-25 pl-1" value="1" />
+            </td>
+            <td><h5>$110.00</h5></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+    <!--* Cart_Bottom -->
+    <section id="cart-bottom" class="container">
+      <div class="row">
+        <div class="coupon col-lg-6 col-md-6 col-12 mb-4">
+          <div>
+            <h5>COUPON</h5>
+            <p>Enter your coupon code if you have one.</p>
+            <input type="text" placeholder="Coupon Code" />
+            <button class="text-uppercase">Apply Coupon</button>
+          </div>
+        </div>
+        <div class="total col-lg-6 col-md-6 col-12">
+          <div>
+            <h5>Cart Total</h5>
+            <div class="d-flex justify-content-between">
+              <h6>subtotal</h6>
+              <p>$300.00</p>
+            </div>
+            <div class="d-flex justify-content-between">
+              <h6>Shipping</h6>
+              <p>$170.00</p>
+            </div>
+            <hr class="second-hr" />
+            <div class="d-flex justify-content-between">
+              <h6>Total</h6>
+              <p>$570.00</p>
+            </div>
+            <button class="text-uppercase ml-auto">proceed to checkout</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--* Footer -->
+    <footer class="mt-5 py-5">
+      <div class="row container mx-auto pt-5">
+        <div class="footer-one col-lg-3 col-md-6 col-12">
+          <img src="img/logo2.png" alt="" />
+          <p class="mt-3">
+            Here you will get the best deals on best prices and the unmatched
+            quality.Buy now without wasting the time
+          </p>
+        </div>
+        <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
+          <h5 class="pb-3">Contact Us</h5>
+          <ul class="list-unstyled text-uppercase">
+            <li><a href="#">mens</a></li>
+            <li><a href="#">women</a></li>
+            <li><a href="#">kids</a></li>
+            <li><a href="#">girls</a></li>
+            <li><a href="#">new arrivals</a></li>
+            <li><a href="#">watches</a></li>
+            <li><a href="#">shoes</a></li>
+            <li><a href="#">clothes</a></li>
+          </ul>
+        </div>
+        <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
+          <h5 class="pb-3">Featured</h5>
+          <div>
+            <h6 class="text-uppercase">Address</h6>
+            <p>North Karachi, Block f, Karachi.</p>
+          </div>
+          <div>
+            <h6 class="text-uppercase">phone</h6>
+            <p>(+92) 305-4568871</p>
+          </div>
+          <div>
+            <h6 class="text-uppercase">email</h6>
+            <p>abc@example.com</p>
+          </div>
+        </div>
+        <div class="footer-ins col-lg-3 col-md-6 col-12">
+          <h5 class="pb-3">Instagram</h5>
+          <div class="row">
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/1.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/2.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/3.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/4.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/5.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+      <div class="copyright mt-5">
+        <div class="row container mx-auto">
+          <div class="col-lg-3 col-md-6 col-12 mb-4">
+            <img src="img/payment.png" alt="" />
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 mb-2">
+            <p>Made by Rehan Ali (Undergraduate BS-SE)</p>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"
+      integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"
+      integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RYMO: Where you meet quality</title>
+
+    <link rel="shortcut icon" href="img/favi.png" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!--* NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top">
+      <div class="container">
+        <img src="img/logo1.png" alt="" />
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span><i id="bar" class="fas fa-bars"></i></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="shop.html">Shop</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="blog.html">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item">
+              <i class="fal fa-search"></i>
+              <i
+                onclick="window.location.href = 'cart.html' "
+                class="fal fa-shopping-bag"
+              ></i>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--* Det -->
+    <section class="sproduct container my-5 pt-5">
+      <div class="row mt-5">
+        <div class="col-lg-5 col-md-12 col-12">
+          <img
+            src="img/shop/1.jpg"
+            class="img-fluid w-100 pb-1"
+            id="main-img"
+            alt=""
+          />
+          <div class="small-img-group">
+            <div class="small-img-col">
+              <img src="img/shop/1.jpg" width="100%" class="small-img" alt="" />
+            </div>
+            <div class="small-img-col">
+              <img
+                src="img/shop/24.jpg"
+                width="100%"
+                class="small-img"
+                alt=""
+              />
+            </div>
+            <div class="small-img-col">
+              <img
+                src="img/shop/25.jpg"
+                width="100%"
+                class="small-img"
+                alt=""
+              />
+            </div>
+            <div class="small-img-col">
+              <img
+                src="img/shop/26.jpg"
+                width="100%"
+                class="small-img"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+        <div class="sec-right col-lg-6 col-md-12 col-12">
+          <h6 id="product-category">Home / T-Shirt</h6>
+          <h3 id="product-title" class="py-4">Men's Fashion T Shirt</h3>
+          <h2 id="product-price">$00.00</h2>
+          <select class="my-3">
+            <option>Select Size</option>
+            <option>XXL</option>
+            <option>XL</option>
+            <option>Large</option>
+            <option>Small</option>
+          </select>
+          <input type="number" value="1" />
+          <button class="buy-btn">Add To Cart</button>
+          <h4 class="mt-5 mb-4">Product Details</h4>
+          <span id="product-description">Description will go here.</span>
+        </div>
+      </div>
+    </section>
+    <!--* feature -->
+    <section id="feature" class="my-5 pb-5">
+      <div class="container mt-5 py-5 text-center">
+        <h3>Related Products</h3>
+        <hr class="mx-auto" />
+      </div>
+      <div class="row mx-auto container-fluid">
+        <div
+          class="product text-center col-lg-3 col-md-4 col-12"
+          data-key="l1_p1"
+        >
+          <img src="img/featured/1.jpg" class="img-fluid mb-3" alt="l1_p1" />
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <h5 class="p-name">Sport Boots</h5>
+          <h4 class="p-price">$92.00</h4>
+          <button class="buy-btn">Buy Now</button>
+        </div>
+        <div
+          class="product text-center col-lg-3 col-md-4 col-12"
+          data-key="l1_p2"
+        >
+          <img src="img/featured/2.jpg" class="img-fluid mb-3" alt="" />
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <h5 class="p-name">Sport Boots</h5>
+          <h4 class="p-price">$92.00</h4>
+          <button class="buy-btn">Buy Now</button>
+        </div>
+        <div
+          class="product text-center col-lg-3 col-md-4 col-12"
+          data-key="l1_p3"
+        >
+          <img src="img/featured/3.jpg" class="img-fluid mb-3" alt="" />
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <h5 class="p-name">Sport Boots</h5>
+          <h4 class="p-price">$92.00</h4>
+          <button class="buy-btn">Buy Now</button>
+        </div>
+        <div
+          class="product text-center col-lg-3 col-md-4 col-12"
+          data-key="l1_p4"
+        >
+          <img src="img/featured/4.jpg" class="img-fluid mb-3" alt="" />
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <h5 class="p-name">Sport Boots</h5>
+          <h4 class="p-price">$92.00</h4>
+          <button class="buy-btn">Buy Now</button>
+        </div>
+      </div>
+    </section>
+    <!--* Footer -->
+    <footer class="mt-5 py-5">
+      <div class="row container mx-auto pt-5">
+        <div class="footer-one col-lg-3 col-md-6 col-12">
+          <img src="img/logo2.png" alt="" />
+          <p class="mt-3">
+            Here you will get the best deals on best prices and the unmatched
+            quality.Buy now without wasting the time
+          </p>
+        </div>
+        <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
+          <h5 class="pb-3">Contact Us</h5>
+          <ul class="list-unstyled text-uppercase">
+            <li><a href="#">mens</a></li>
+            <li><a href="#">women</a></li>
+            <li><a href="#">kids</a></li>
+            <li><a href="#">girls</a></li>
+            <li><a href="#">new arrivals</a></li>
+            <li><a href="#">watches</a></li>
+            <li><a href="#">shoes</a></li>
+            <li><a href="#">clothes</a></li>
+          </ul>
+        </div>
+        <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
+          <h5 class="pb-3">Featured</h5>
+          <div>
+            <h6 class="text-uppercase">Address</h6>
+            <p>North Karachi, Block f, Karachi.</p>
+          </div>
+          <div>
+            <h6 class="text-uppercase">phone</h6>
+            <p>(+92) 305-4568871</p>
+          </div>
+          <div>
+            <h6 class="text-uppercase">email</h6>
+            <p>abc@example.com</p>
+          </div>
+        </div>
+        <div class="footer-ins col-lg-3 col-md-6 col-12">
+          <h5 class="pb-3">Instagram</h5>
+          <div class="row">
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/1.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/2.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/3.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/4.jpg"
+              alt=""
+            />
+            <img
+              class="img-fluid w-25 h-100 m-2"
+              src="img/insta/5.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+      <div class="copyright mt-5">
+        <div class="row container mx-auto">
+          <div class="col-lg-3 col-md-6 col-12 mb-4">
+            <img src="img/payment.png" alt="" />
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 mb-2">
+            <p>Made by Rehan Ali (Undergraduate BS-SE)</p>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!--! SCRIPTS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"
+      integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"
+      integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      window.onload = () => {
+        const M_img = document.getElementById("main-img");
+        const S_imgs = document.querySelectorAll(".small-img");
+
+        // Initial setup: blur all thumbnails, unblur the first one
+        S_imgs.forEach((img, index) => {
+          img.style.filter = index === 0 ? "none" : "blur(2px)";
+        });
+
+        // Add click listeners
+        S_imgs.forEach((img) => {
+          img.addEventListener("click", () => {
+            M_img.src = img.src;
+
+            // Blur all thumbnails
+            S_imgs.forEach((i) => (i.style.filter = "blur(2px)"));
+
+            // Unblur the clicked one
+            img.style.filter = "none";
+          });
+        });
+      };
+      const params = new URLSearchParams(window.location.search);
+      const productId = params.get("id");
+
+      fetch("product.json")
+        .then((res) => res.json())
+        .then((products) => {
+          const product = products[productId];
+
+          if (product) {
+            // Main Image
+            document.getElementById("main-img").src = product.images[0];
+
+            // Small Images
+            const smallImgs = document.querySelectorAll(".small-img");
+            smallImgs.forEach((img, i) => {
+              img.src = product.images[i] || product.images[0];
+            });
+
+            // Text Content
+            document.getElementById("product-title").innerText = product.title;
+            document.getElementById("product-price").innerText = product.price;
+            document.getElementById("product-category").innerText =
+              product.brand;
+            document.getElementById("product-description").innerText =
+              product.description;
+          } else {
+            document.getElementById("prodetails").innerHTML =
+              "<h2>Product Not Found</h2>";
+          }
+        })
+        .catch((error) => {
+          console.error("Failed to load product data:", error);
+        });
+    </script>
+    <script src="jav.js"></script>
+    <script>
+      fetch("product.json")
+        .then((res) => res.json())
+        .then((products) => {
+          // Convert products object into an array
+          let keys = Object.keys(products);
+
+          // Shuffle array randomly
+          keys.sort(() => Math.random() - 0.5);
+
+          // Take first 4 products
+          let selected = keys.slice(0, 4);
+
+          // Target container for related products
+          let container = document.querySelector("#feature .row");
+          container.innerHTML = ""; // clear old content
+
+          // Add each selected product
+          selected.forEach((key) => {
+            let p = products[key];
+            container.innerHTML += `
+          <div class="product text-center col-lg-3 col-md-4 col-12" data-key="${key}">
+            <img src="${p.images[0]}" class="img-fluid mb-3" alt="${key}" />
+            <div class="stars">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+            </div>
+            <h5 class="p-name">${p.title}</h5>
+            <h4 class="p-price">${p.price}</h4>
+            <button class="buy-btn">Buy Now</button>
+          </div>
+        `;
+          });
+
+          // Add button click (navigate to product page)
+          document.querySelectorAll(".buy-btn").forEach((btn) => {
+            btn.onclick = (e) => {
+              let key = e.target.closest(".product").dataset.key;
+              window.location.href = `sproduct.html?id=${key}`;
+            };
+          });
+        })
+        .catch((err) => console.error("Error:", err));
+    </script>
+  </body>
+</html>

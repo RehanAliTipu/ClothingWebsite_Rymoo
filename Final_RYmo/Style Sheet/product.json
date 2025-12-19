@@ -1,0 +1,434 @@
+{
+  "l1_p1": {
+    "title": "Span Shoes",
+    "brand": "Nike",
+    "price": "$23.00",
+    "description": "Upgrade your wardrobe with Rymo’s premium collection, designed for comfort, style, and durability. Made with high-quality materials and crafted with attention to detail, this product ensures a perfect balance of fashion and functionality. Whether you’re dressing up for an occasion or keeping it casual, Rymo’s versatile designs help you stand out effortlessly.",
+    "images": [
+      "img/featured/1.jpg",
+      "img/featured/2.jpg",
+      "img/shoes/5.jpg",
+      "img/shoes/6.jpg"
+    ]
+  },
+  "l1_p2": {
+    "title": "Jedi Boots",
+    "brand": "Addidas",
+    "price": "$19.00",
+    "description": "Discover Rymo’s stylish collection crafted for lasting comfort and timeless appeal. Each product is made with premium fabrics and fine detailing, making it perfect for daily wear as well as special occasions.",
+    "images": [
+      "img/featured/2.jpg",
+      "img/featured/1.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg"
+    ]
+  },
+  "l1_p3": {
+    "title": "Bag",
+    "brand": "Catterpiller",
+    "price": "$54.44",
+    "description": "Rymo products are designed to combine elegance with durability. With high-quality craftsmanship and versatile style, this piece is an ideal choice for those who value both fashion and comfort.",
+    "images": [
+      "img/featured/3.jpg",
+      "img/shop/3.jpg",
+      "img/shop/9.jpg",
+      "img/shop/15.jpg"
+    ]
+  },
+  "l1_p4": {
+    "title": "Beanie",
+    "brand": "Puma",
+    "price": "$20.14",
+    "description": "Step up your style with Rymo’s modern essentials. Made with attention to detail and durable materials, this product delivers comfort and fashion for every occasion.",
+    "images": [
+      "img/featured/4.jpg",
+      "img/shop/5.jpg",
+      "img/shop/18.jpg",
+      "img/shop/15.jpg"
+    ]
+  },
+  "l2_p1": {
+    "title": "Formal Dress",
+    "brand": "Zara",
+    "price": "$90.29",
+    "description": "Rymo offers versatile fashion pieces crafted to suit your lifestyle. With superior quality and sleek design, this product adds both function and elegance to your collection.",
+    "images": [
+      "img/clothes/1.jpg",
+      "img/clothes/2.jpg",
+      "img/clothes/3.jpg",
+      "img/clothes/1.jpg"
+    ]
+  },
+  "l2_p2": {
+    "title": "Girls Top",
+    "brand": "Zara",
+    "price": "$45.00",
+    "description": "Elevate your everyday look with Rymo. Designed for durability and comfort, this product blends modern fashion with reliable quality, making it a perfect choice for any occasion.",
+    "images": [
+      "img/clothes/2.jpg",
+      "img/shop/6.jpg",
+      "img/shop/20.jpg",
+      "img/shop/17.jpg"
+    ]
+  },
+  "l2_p3": {
+    "title": "Theo Eye Shirt",
+    "brand": "Puma",
+    "price": "$17.00",
+    "description": "Rymo creates timeless essentials with a focus on style and long-lasting quality. Perfect for both casual wear and formal events, this piece is a wardrobe must-have.",
+    "images": [
+      "img/clothes/3.jpg",
+      "img/shop/24.jpg",
+      "img/shop/25.jpg",
+      "img/shop/26.jpg"
+    ]
+  },
+  "l2_p4": {
+    "title": "Formal Dress",
+    "brand": "Zara",
+    "price": "$90.29",
+    "description": "Rymo offers versatile fashion pieces crafted to suit your lifestyle. With superior quality and sleek design, this product adds both function and elegance to your collection.",
+    "images": [
+      "img/clothes/1.jpg",
+      "img/clothes/2.jpg",
+      "img/clothes/3.jpg",
+      "img/clothes/1.jpg"
+    ]
+  },
+  "l3_p1": {
+    "title": "Rolex Submariner",
+    "brand": "Rolex",
+    "price": "$458.00",
+    "description": "Rymo delivers premium quality with a modern touch. Built to last and styled to impress, this product is an essential piece for those who value comfort and fashion together.",
+    "images": [
+      "img/watches/1.jpg",
+      "img/watches/2.jpg",
+      "img/watches/3.jpg",
+      "img/watches/4.jpg"
+    ]
+  },
+  "l3_p2": {
+    "title": "Casio Daytona",
+    "brand": "Casio",
+    "price": "$658.00",
+    "description": "Experience the blend of comfort and style with Rymo. Crafted from durable materials, this versatile product ensures you stay trendy without compromising on quality.",
+    "images": [
+      "img/watches/2.jpg",
+      "img/watches/1.jpg",
+      "img/watches/3.jpg",
+      "img/watches/4.jpg"
+    ]
+  },
+  "l3_p3": {
+    "title": "Seiko Datejust",
+    "brand": "Seiko",
+    "price": "$770.00",
+    "description": "Rymo’s designs reflect a balance of fashion-forward style and everyday functionality. This product offers the reliability you need with the style you want.",
+    "images": [
+      "img/watches/3.jpg",
+      "img/watches/1.jpg",
+      "img/watches/2.jpg",
+      "img/watches/4.jpg"
+    ]
+  },
+  "l3_p4": {
+    "title": "Fossil Submariner",
+    "brand": "Fossil",
+    "price": "$620.00",
+    "description": "Look sharp and feel comfortable with Rymo’s quality products. Designed to suit any occasion, this piece brings lasting value and effortless style to your wardrobe.",
+    "images": [
+      "img/watches/4.jpg",
+      "img/watches/1.jpg",
+      "img/watches/2.jpg",
+      "img/watches/3.jpg"
+    ]
+  },
+  "l4_p1": {
+    "title": "Adidas Ultraboost",
+    "brand": "Adidas",
+    "price": "$50.00",
+    "description": "Rymo redefines fashion essentials with premium craftsmanship and versatile style. This product ensures you stay comfortable while looking your absolute best.",
+    "images": [
+      "img/shoes/5.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg",
+      "img/shoes/8.jpg"
+    ]
+  },
+  "l4_p2": {
+    "title": "Puma Suede Classic",
+    "brand": "Puma",
+    "price": "$45.00",
+    "description": "Enhance your collection with Rymo’s carefully crafted designs. Combining high-quality materials and timeless appeal, this product is made to keep you stylish and confident.",
+    "images": [
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg",
+      "img/shoes/8.jpg",
+      "img/shoes/5.jpg"
+    ]
+  },
+  "l4_p3": {
+    "title": "Taylor All Star",
+    "brand": "Converse Chuck",
+    "price": "$29.00",
+    "description": "Rymo brings together durability and elegance in every piece. This product is designed to complement your look while providing all-day comfort and style.",
+    "images": [
+      "img/shoes/7.jpg",
+      "img/shoes/8.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/5.jpg"
+    ]
+  },
+  "l4_p4": {
+    "title": "Nike Crazer",
+    "brand": "Nike",
+    "price": "$55.00",
+    "description": "Stay ahead in style with Rymo’s premium range. Crafted with care and designed for versatility, this product is a must-have addition to any modern wardrobe.",
+    "images": [
+      "img/shoes/8.jpg",
+      "img/shoes/5.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg"
+    ]
+  },
+  "sl1p1": {
+    "title": "Men's T-shirt",
+    "brand": "Nike",
+    "price": "$11.00",
+    "description": "Redefine your everyday style with Rymo’s sleek collection. Crafted with high-quality fabrics, this product ensures lasting comfort and a refined look for all occasions.",
+    "images": [
+      "img/shop/1.jpg",
+      "img/shop/24.jpg",
+      "img/shop/25.jpg",
+      "img/shop/26.jpg"
+    ]
+  },
+  "sl1p2": {
+    "title": "Stemper",
+    "brand": "Hush Puppy",
+    "price": "$54.00",
+    "description": "Stay comfortable and stylish with Rymo. This product is made to deliver durability and elegance, making it a versatile choice for both casual and formal wear.",
+    "images": [
+      "img/shop/2.jpg",
+      "img/shoes/5.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg"
+    ]
+  },
+  "sl1p3": {
+    "title": "Stranger Bag",
+    "brand": "Addidas",
+    "price": "$16.55",
+    "description": "Rymo’s premium designs combine effortless fashion with practicality. Perfect for anyone who values long-lasting quality and standout style.",
+    "images": [
+      "img/shop/3.jpg",
+      "img/featured/3.jpg",
+      "img/shop/9.jpg",
+      "img/shop/15.jpg"
+    ]
+  },
+  "sl1p4": {
+    "title": "Stamper Shoes",
+    "brand": "Nike",
+    "price": "$43.87",
+    "description": "Upgrade your collection with Rymo’s modern essentials. Built with precision and premium materials, this product keeps you looking sharp and feeling comfortable all day.",
+    "images": [
+      "img/shop/4.jpg",
+      "img/shop/2.jpg",
+      "img/shoes/5.jpg",
+      "img/shoes/6.jpg"
+    ]
+  },
+  "sl2p1": {
+    "title": "Toboggan",
+    "brand": "Puma",
+    "price": "$7.89",
+    "description": "Experience unmatched comfort and timeless appeal with Rymo. Each product is designed to offer a blend of durability and fashionable elegance.",
+    "images": [
+      "img/shop/5.jpg",
+      "img/featured/3.jpg",
+      "img/shop/18.jpg",
+      "img/shop/15.jpg"
+    ]
+  },
+  "sl2p2": {
+    "title": "Long Blazer",
+    "brand": "Cardiums",
+    "price": "$41.00",
+    "description": "Rymo’s versatile collection makes dressing up simple and stylish. With fine craftsmanship and lasting quality, this product adapts to any lifestyle with ease.",
+    "images": [
+      "img/shop/6.jpg",
+      "img/clothes/1.jpg",
+      "img/clothes/2.jpg",
+      "img/shop/20.jpg"
+    ]
+  },
+  "sl2p3": {
+    "title": "Sneakers",
+    "brand": "Sketchers",
+    "price": "$67.00",
+    "description": "Stay ahead of trends with Rymo’s carefully crafted pieces. Designed for comfort and elegance, this product is the perfect addition to your wardrobe.",
+    "images": [
+      "img/shop/7.jpg",
+      "img/shop/2.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg"
+    ]
+  },
+  "sl2p4": {
+    "title": "Huddie",
+    "brand": "Levi’s",
+    "price": "$37.00",
+    "description": "Rymo focuses on blending modern design with everyday comfort. This product offers long-lasting style, making it a smart choice for every occasion.",
+    "images": [
+      "img/shop/8.jpg",
+      "img/shop/6.jpg",
+      "img/shop/17.jpg",
+      "img/shop/19.jpg"
+    ]
+  },
+  "sl3p1": {
+    "title": "Tri - Bag",
+    "brand": "Gucci",
+    "price": "$97.00",
+    "description": "Bring sophistication to your look with Rymo’s premium essentials. Designed with precision and care, this product ensures you look and feel your best.",
+    "images": [
+      "img/shop/9.jpg",
+      "img/featured/3.jpg",
+      "img/shop/9.jpg",
+      "img/shop/15.jpg"
+    ]
+  },
+  "sl3p2": {
+    "title": "Daylo",
+    "brand": "Tissot",
+    "price": "$597.00",
+    "description": "Rymo combines quality craftsmanship with timeless appeal. This versatile product offers durability and style that you can rely on for any occasion.",
+    "images": [
+      "img/shop/10.jpg",
+      "img/watches/1.jpg",
+      "img/watches/2.jpg",
+      "img/watches/4.jpg"
+    ]
+  },
+  "sl3p3": {
+    "title": "Cowboy Hat",
+    "brand": "Addidas",
+    "price": "$88.00",
+    "description": "Elevate your everyday essentials with Rymo’s exclusive range. Designed for both comfort and modern style, this product is perfect for daily wear.",
+    "images": [
+      "img/shop/11.jpg",
+      "img/shop/5.jpg",
+      "img/shop/18.jpg",
+      "img/shop/15.jpg"
+    ]
+  },
+  "sl3p4": {
+    "title": "Sport Boot",
+    "brand": "Nike",
+    "price": "$23.00",
+    "description": "Upgrade your wardrobe with Rymo’s premium collection, designed for comfort, style, and durability. Made with high-quality materials and crafted with attention to detail, this product ensures a perfect balance of fashion and functionality. Whether you’re dressing up for an occasion or keeping it casual, Rymo’s versatile designs help you stand out effortlessly.",
+    "images": [
+      "img/shop/12.jpg",
+      "img/featured/2.jpg",
+      "img/shoes/5.jpg",
+      "img/shoes/6.jpg"
+    ]
+  },
+  "sl4p1": {
+    "title": "Day-Night Clod",
+    "brand": "Fisso",
+    "price": "$365.00",
+    "description": "Rymo offers contemporary designs with lasting quality. This product combines elegance and practicality, making it suitable for every occasion.",
+    "images": [
+      "img/shop/13.jpg",
+      "img/shop/10.jpg",
+      "img/watches/4.jpg",
+      "img/watches/2.jpg"
+    ]
+  },
+  "sl4p2": {
+    "title": "Brodo Nats",
+    "brand": "Hush Puppy",
+    "price": "$145.00",
+    "description": "Look sharp and stay comfortable with Rymo’s latest designs. Built with durable materials, this product ensures timeless appeal and reliable wear.",
+    "images": [
+      "img/shop/14.jpg",
+      "img/shoes/8.jpg",
+      "img/shoes/6.jpg",
+      "img/shoes/7.jpg"
+    ]
+  },
+  "sl4p3": {
+    "title": "Knit cap",
+    "brand": "H&M",
+    "price": "$24.00",
+    "description": "Rymo’s products are thoughtfully crafted to suit your style and needs. This piece delivers both modern design and long-lasting quality.",
+    "images": [
+      "img/shop/15.jpg",
+      "img/featured/3.jpg",
+      "img/shop/5.jpg",
+      "img/shop/18.jpg"
+    ]
+  },
+  "sl4p4": {
+    "title": "Sanlo Shirt",
+    "brand": "Under Armour",
+    "price": "$34.00",
+    "description": "Stay versatile with Rymo’s premium range. Each product is crafted with attention to detail, offering comfort, durability, and a stylish edge.",
+    "images": [
+      "img/shop/16.jpg",
+      "img/shop/24.jpg",
+      "img/shop/25.jpg",
+      "img/shop/26.jpg"
+    ]
+  },
+  "sl5p1": {
+    "title": "Multi-COl-Jacket",
+    "brand": "H&S",
+    "price": "$90.00",
+    "description": "Rymo blends premium quality with modern fashion to create timeless essentials. This product is designed to keep you comfortable while enhancing your style.",
+    "images": [
+      "img/shop/17.jpg",
+      "img/shop/19.jpg",
+      "img/shop/8.jpg",
+      "img/shop/6.jpg"
+    ]
+  },
+  "sl5p2": {
+    "title": "Skull cap",
+    "brand": "Under Armour",
+    "price": "$13.00",
+    "description": "Add a touch of elegance to your collection with Rymo. This product delivers a balance of durability, comfort, and fashion-forward design.",
+    "images": [
+      "img/shop/18.jpg",
+      "img/shop/15.jpg",
+      "img/shop/11.jpg",
+      "img/shop/5.jpg"
+    ]
+  },
+  "sl5p3": {
+    "title": "Black Tap Hud",
+    "brand": "Addidas",
+    "price": "$49.00",
+    "description": "Rymo’s versatile range is built for style-conscious individuals. This product offers lasting comfort and a modern design fit for any lifestyle.",
+    "images": [
+      "img/shop/19.jpg",
+      "img/shop/17.jpg",
+      "img/shop/8.jpg",
+      "img/shop/6.jpg"
+    ]
+  },
+  "sl5p4": {
+    "title": "",
+    "brand": "",
+    "price": "$45.00",
+    "description": "Stay confident with Rymo’s carefully designed essentials. Crafted from durable materials, this product ensures all-day style and comfort.",
+    "images": [
+      "img/shop/20.jpg",
+      "img/clothes/1.jpg",
+      "img/clothes/2.jpg",
+      "img/shop/6.jpg"
+    ]
+  }
+}
